@@ -2,7 +2,7 @@
 
 * [SysLink Help Document](README.md)
 * [SysLink概述](syslink-gai-shu.md)
-* 安装与卸载
+* [安装与卸载](untitled/README.md)
   * 安装SysLink
   * 卸载SysLink
 * 系统管理
