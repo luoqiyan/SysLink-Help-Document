@@ -4,7 +4,7 @@
 
 双击运行SysLink安装包“install.exe”，启动SysLink安装过程，选择安装语言（简体中文或英文）。
 
-![&#x9009;&#x62E9;&#x5B89;&#x88C5;&#x8BED;&#x8A00;](../.gitbook/assets/an-zhuang-xiang-dao.png)
+![](../.gitbook/assets/xuan-ze-yu-yan.png)
 
 点击“OK”按钮，进入SysLink安装向导，默认一直点击“下一步”按钮即可。
 
