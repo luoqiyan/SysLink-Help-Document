@@ -3,8 +3,8 @@
 * [SysLink Help Document](README.md)
 * [SysLink概述](syslink-gai-shu.md)
 * [安装与卸载](untitled/README.md)
-  * 安装SysLink
-  * 卸载SysLink
+  * [安装与卸载SysLink服务器](untitled/an-zhuang-syslink.md)
+  * 安装与卸载SysLink客户端
 * 系统管理
   * 组织管理
   * 用户管理
