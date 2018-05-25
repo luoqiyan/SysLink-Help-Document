@@ -44,3 +44,11 @@ SysLink服务器安装后默认安装路径“C:\WINDOWS\SysWOW64\CAEModelDBS\Un
 
 ![&#x9009;&#x62E9;&#x5378;&#x8F7D;&#x65B9;&#x5F0F;](../.gitbook/assets/xie-zai-fang-shi.png)
 
+* 若选择“完全卸载”，点击“下一步”按钮完全卸载SysLink服务器。
+
+![&#x5B8C;&#x5168;&#x5378;&#x8F7D;](../.gitbook/assets/wan-quan-xie-zai.png)
+
+* 若选择“卸载特定功能”，点击“下一步”按钮，取消选中要卸载的功能部件，点击“卸载”按钮卸载取消选中的功能部件。
+
+![&#x5378;&#x8F7D;&#x7279;&#x5B9A;&#x529F;&#x80FD;](../.gitbook/assets/bu-fen-xie-zai.png)
+
