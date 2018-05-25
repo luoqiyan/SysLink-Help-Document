@@ -24,3 +24,17 @@
 
 ![&#x5173;&#x8054;&#x6587;&#x4EF6;](../.gitbook/assets/guan-lian-wen-jian.png)
 
+\(6\). 安装完成。
+
+![&#x5B89;&#x88C5;&#x5B8C;&#x6210;](../.gitbook/assets/an-zhuang-wan-cheng.png)
+
+## 卸载SysLink客户端
+
+### 快捷卸载程序
+
+通过快捷程序卸载MWorks是最简捷的方式。MWorks安装后创建了开始菜单卸载程序的快捷方式。
+
+点击运行“uninstall”，开始卸载MWorks。
+
+![](../.gitbook/assets/xie-zai-mworks.png)
+
