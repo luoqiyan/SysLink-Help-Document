@@ -4,7 +4,7 @@
 * [SysLink概述](syslink-gai-shu.md)
 * [安装与卸载](untitled/README.md)
   * [安装与卸载SysLink服务器](untitled/an-zhuang-syslink.md)
-  * 安装与卸载SysLink客户端
+  * [安装与卸载SysLink客户端](untitled/xie-zai-syslink.md)
 * 系统管理
   * 组织管理
   * 用户管理
