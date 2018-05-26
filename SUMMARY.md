@@ -5,6 +5,7 @@
 * 安装与卸载
   * [安装与卸载SysLink服务器](untitled/an-zhuang-syslink.md)
   * [安装与卸载SysLink客户端](untitled/xie-zai-syslink.md)
+  * [运行配置](untitled/yun-hang-pei-zhi.md)
 * 系统管理
   * 组织管理
   * 用户管理

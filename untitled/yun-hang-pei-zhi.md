@@ -1,0 +1,115 @@
+# 运行配置
+
+## SysLink服务器运行配置
+
+\(1\). SysLink服务器安装完成后，打开C:\Windows\SysWOW64\CAEModelDBS\tomcat\webapps\ROOT\WEB-INF\classes\[默认安装路径\]下的application.properties，修改其中的gogsHostPath（位于62行）和HostPath（位于64行）为当前服务器IP。
+
+```text
+#debug=true
+#spring.datasource.url = jdbc:mysql://localhost:3306/spring?useUnicode=true&characterEncoding=utf-8
+#spring.datasource.username = root
+#spring.datasource.password = root
+#spring.datasource.driver-class-name = com.mysql.jdbc.Driver
+
+spring.datasource.primary.url=jdbc:mysql://localhost:3306/syslink?useUnicode=true&characterEncoding=utf8&useSSL=true&allowMultiQueries=true
+spring.datasource.primary.username=root
+spring.datasource.primary.password=root
+spring.datasource.primary.driver-class-name=com.mysql.jdbc.Driver
+
+spring.datasource.secondary.url=jdbc:mysql://localhost:3306/gogs?useUnicode=true&characterEncoding=utf8&useSSL=true&allowMultiQueries=true
+spring.datasource.secondary.username=root
+spring.datasource.secondary.password=root
+spring.datasource.secondary.driver-class-name=com.mysql.jdbc.Driver
+
+spring.jpa.properties.hibernate.hbm2ddl.auto=update
+
+
+#验证连接的有效性
+#spring.datasource.test-while-idle=true
+#获取连接时候验证，会影响性能
+#spring.datasource.test-on-borrow=true
+#spring.datasource.validation-query=SELECT 1 FROM DUAL
+#空闲连接回收的时间间隔，与test-while-idle一起使用，设置5分钟
+#spring.datasource.time-between-eviction-runs-millis=300000
+#连接池空闲连接的有效时间 ，设置30分钟
+#spring.datasource.min-evictable-idle-time-millis=1800000
+
+spring.datasource.primary.max-idle=10
+spring.datasource.primary.max-wait=10000
+spring.datasource.primary.min-idle=5
+spring.datasource.primary.initial-size=5
+spring.datasource.primary.validation-query=SELECT 1 FROM DUAL
+spring.datasource.primary.test-on-borrow=false
+spring.datasource.primary.test-while-idle=true
+spring.datasource.primary.time-between-eviction-runs-millis=18800
+
+spring.datasource.secondary.max-idle=10
+spring.datasource.secondary.max-wait=10000
+spring.datasource.secondary.min-idle=5
+spring.datasource.secondary.initial-size=5
+spring.datasource.secondary.validation-query=SELECT 1 FROM DUAL
+spring.datasource.secondary.test-on-borrow=false
+spring.datasource.secondary.test-while-idle=true
+spring.datasource.secondary.time-between-eviction-runs-millis=18800
+
+
+#指定bean所在包
+#mybatis.type-aliases-package=com.tongyuan.model.domain
+#指定映射文件
+#mybatis.mapperLocations=classpath:/*.xml
+
+#spring.mvc.view.prefix: /WEB-INF/jsp/
+#spring.mvc.view.suffix: .jsp
+
+#zipPath = Users/zhangcy/Documents/test/Temp/zip/
+#unzipPath = Users/zhangcy/Documents/test/Temp/FileLibrary/
+zipPath = C:/Temp/zip/
+unzipPath = C:/Temp/FileLibrary/
+exportFileUrl = file:C:/Temp/FileLibrary
+
+gogsHostPath = 192.168.52.128:3001
+HostPath = 192.168.52.128:8080
+
+MappedPackage = /FileLibrarys
+xiazai = xiaZaiTemple/
+
+mybatis.table.auto=update
+mybatis.model.pack=com.tongyuan.model.domain
+
+
+######   logging config start ######
+#logging.file=C:/Syslink/syslink.log
+#logging.level.com.favorites=INFO
+#logging.level.org.springframework.web=INFO
+#logging.level.org.hibernate=ERROR
+######   logging config end ######
+
+#server.port=80
+
+#审签邮件提醒服务
+spring.mail.host=smtp.126.com
+spring.mail.username=SyslinkMail@126.com
+spring.mail.password=syslink123456
+spring.mail.default-encoding=UTF-8
+
+
+
+
+
+#spring.application.name=rabbitmq-hello
+#spring.rabbitmq.host=localhost
+#spring.rabbitmq.port=5672
+#spring.rabbitmq.username=guest
+#spring.rabbitmq.password=guest
+
+
+
+defaultPassWord = 111111
+
+
+
+
+```
+
+
+
