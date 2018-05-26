@@ -40,5 +40,17 @@ const HostPath = \"192.168.52.128\"\r\n
 
 ![&#x542F;&#x52A8;SysLink&#x767B;&#x5F55;&#x754C;&#x9762;](../.gitbook/assets/qi-dong-syslink.png)
 
+## SysLink4Sysplorer客户端运行配置
 
+双击桌面上的快捷方式MWorks，即启动SysLink4Sysplorer客户端。
+
+![&#x542F;&#x52A8;&#x5BA2;&#x6237;&#x7AEF;](../.gitbook/assets/qi-dong-mworks.png)
+
+首次运行时需要对Git安装路径进行验证，点击菜单“工具→选项”，弹出“选项”对话框，切换至“Syslink→Git”项。
+
+![git&#x5B89;&#x88C5;&#x8DEF;&#x5F84;&#x9A8C;&#x8BC1;](../.gitbook/assets/git-an-zhuang-lu-jing-yan-zheng.png)
+
+点击“Verify”按钮，提示Git安装路径验证成功。
+
+![git&#x5B89;&#x88C5;&#x8DEF;&#x5F84;&#x9A8C;&#x8BC1;&#x6210;&#x529F;](../.gitbook/assets/git-yan-zheng-cheng-gong.png)
 
