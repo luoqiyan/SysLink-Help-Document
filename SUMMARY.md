@@ -7,7 +7,7 @@
   * [安装与卸载SysLink客户端](untitled/xie-zai-syslink.md)
   * [运行配置](untitled/yun-hang-pei-zhi.md)
 * 系统管理
-  * 组织管理
+  * [部门管理](xi-tong-guan-li/zu-zhi-guan-li.md)
   * 用户管理
   * 角色管理
   * 权限管理
