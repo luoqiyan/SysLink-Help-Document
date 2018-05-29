@@ -13,7 +13,7 @@
   * 权限管理
     * [系统权限管理](xi-tong-guan-li/quan-xian-guan-li/xi-tong-quan-xian-guan-li.md)
     * [目录控制权限管理](xi-tong-guan-li/quan-xian-guan-li/mu-lu-kong-zhi-quan-xian-guan-li.md)
-* 身份认证
+* [身份认证](shen-fen-ren-zheng.md)
 * 模型协同
   * 新建仓库
     * 添加协作者
