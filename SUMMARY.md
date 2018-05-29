@@ -17,7 +17,7 @@
 * 模型协同
   * [新建仓库](mo-xing-xie-tong/xin-jian-cang-ku/README.md)
     * [添加协作者](mo-xing-xie-tong/xin-jian-cang-ku/tian-jia-xie-zuo-zhe.md)
-  * 克隆远程仓库
+  * [克隆远程仓库](mo-xing-xie-tong/ke-long-yuan-cheng-cang-ku.md)
   * 打开本地仓库
   * 拉取
   * 复原更改
