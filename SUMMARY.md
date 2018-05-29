@@ -15,7 +15,7 @@
     * [目录控制权限管理](xi-tong-guan-li/quan-xian-guan-li/mu-lu-kong-zhi-quan-xian-guan-li.md)
 * [身份认证](shen-fen-ren-zheng.md)
 * 模型协同
-  * 新建仓库
+  * [新建仓库](mo-xing-xie-tong/xin-jian-cang-ku/README.md)
     * 添加协作者
   * 克隆远程仓库
   * 打开本地仓库
