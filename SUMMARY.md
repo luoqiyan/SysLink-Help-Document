@@ -9,7 +9,7 @@
 * 系统管理
   * [部门管理](xi-tong-guan-li/zu-zhi-guan-li.md)
   * [用户管理](xi-tong-guan-li/yong-hu-guan-li.md)
-  * 角色管理
+  * [角色管理](xi-tong-guan-li/jiao-se-guan-li.md)
   * 权限管理
 * 身份认证
 * 模型协同
