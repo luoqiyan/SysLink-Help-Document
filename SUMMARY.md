@@ -11,7 +11,7 @@
   * [用户管理](xi-tong-guan-li/yong-hu-guan-li.md)
   * [角色管理](xi-tong-guan-li/jiao-se-guan-li.md)
   * 权限管理
-    * 系统权限管理
+    * [系统权限管理](xi-tong-guan-li/quan-xian-guan-li/xi-tong-quan-xian-guan-li.md)
     * 目录控制权限管理
 * 身份认证
 * 模型协同
