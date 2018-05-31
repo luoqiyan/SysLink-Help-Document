@@ -19,9 +19,9 @@
     * [添加协作者](mo-xing-xie-tong/xin-jian-cang-ku/tian-jia-xie-zuo-zhe.md)
   * [克隆远程仓库](mo-xing-xie-tong/ke-long-yuan-cheng-cang-ku.md)
   * [本地提交](mo-xing-xie-tong/ben-di-ti-jiao.md)
-  * [拉取](mo-xing-xie-tong/la-qu.md)
-  * 复原更改
   * 推送到服务器
+  * [拉取](mo-xing-xie-tong/la-qu.md)
+  * [复原更改](mo-xing-xie-tong/fu-yuan-geng-gai.md)
   * 对比变更
 * 审签管理
   * [审签模板管理](shen-qian-guan-li/mo-ban-guan-li.md)
