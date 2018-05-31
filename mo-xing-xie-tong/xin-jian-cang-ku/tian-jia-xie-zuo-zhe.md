@@ -12,6 +12,10 @@
 
 ![&#x6DFB;&#x52A0;&#x534F;&#x4F5C;&#x8005;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-3.png)
 
+用户“B”登录SysLinl系统后，在“我的仓库”页面的“我的协作”项下可以看到其作为协作者参与的仓库。
+
+![&#x6211;&#x7684;&#x534F;&#x4F5C;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-6.png)
+
 若要更改协作者的权限，点击权限下拉框，在显示的权限菜单中选择其他项即可。
 
 ![&#x66F4;&#x6539;&#x534F;&#x4F5C;&#x8005;&#x6743;&#x9650;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-4.png)
