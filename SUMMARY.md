@@ -22,7 +22,7 @@
   * 推送到服务器
   * [拉取](mo-xing-xie-tong/la-qu.md)
   * [复原更改](mo-xing-xie-tong/fu-yuan-geng-gai.md)
-  * 对比变更
+  * [对比变更](mo-xing-xie-tong/dui-bi-bian-geng.md)
 * 审签管理
   * [审签模板管理](shen-qian-guan-li/mo-ban-guan-li.md)
   * [发布仓库](shen-qian-guan-li/fa-bu-cang-ku/README.md)
