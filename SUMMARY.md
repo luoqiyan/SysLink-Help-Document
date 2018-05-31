@@ -18,12 +18,11 @@
   * [新建仓库](mo-xing-xie-tong/xin-jian-cang-ku/README.md)
     * [添加协作者](mo-xing-xie-tong/xin-jian-cang-ku/tian-jia-xie-zuo-zhe.md)
   * [克隆远程仓库](mo-xing-xie-tong/ke-long-yuan-cheng-cang-ku.md)
-  * 打开本地仓库
+  * [本地提交](mo-xing-xie-tong/ben-di-ti-jiao.md)
   * 拉取
   * 复原更改
   * 推送到服务器
   * 对比变更
-  * 本地提交
 * 审签管理
   * [审签模板管理](shen-qian-guan-li/mo-ban-guan-li.md)
   * [发布仓库](shen-qian-guan-li/fa-bu-cang-ku/README.md)
