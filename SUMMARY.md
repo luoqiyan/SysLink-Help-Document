@@ -27,7 +27,7 @@
 * 审签管理
   * [审签模板管理](shen-qian-guan-li/mo-ban-guan-li.md)
   * [发布仓库](shen-qian-guan-li/fa-bu-cang-ku/README.md)
-    * 版本发布
+    * [版本发布](shen-qian-guan-li/fa-bu-cang-ku/ban-ben-fa-bu.md)
   * 流程审批
   * 流程撤销
   * 审批进度查看
