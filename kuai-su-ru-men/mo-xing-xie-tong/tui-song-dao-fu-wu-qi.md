@@ -8,15 +8,15 @@ description: 用户在本地仓库中新增或者修改、删除已有模型时�
 
 接着鼠标右键单击TestModel中的任意节点选择“推送到服务器”菜单，过一会提示“推送成功”。
 
-![&#x63A8;&#x9001;&#x6210;&#x529F;](../.gitbook/assets/tui-song.png)
+![&#x63A8;&#x9001;&#x6210;&#x529F;](../../.gitbook/assets/tui-song.png)
 
 推送到服务器之前会默认进行拉取和本地提交操作，再将所做修改提交至远程服务器。
 
 若在用户A推送至服务器之前用户B对TestModel进行了编辑且已推送至服务器，接着用户A编辑TestModel且与用户B存在冲突，则当用户A进行推送至服务器时，首先会进行拉取，提示拉取冲突。
 
-![&#x62C9;&#x53D6;&#x51B2;&#x7A81;](../.gitbook/assets/tui-song-1.png)
+![&#x62C9;&#x53D6;&#x51B2;&#x7A81;](../../.gitbook/assets/tui-song-1.png)
 
 点击“确定”按钮，在弹出的冲突文件中首先解决冲突，再进行推送至服务器。
 
-![&#x51B2;&#x7A81;&#x6587;&#x4EF6;](../.gitbook/assets/tui-song-2.png)
+![&#x51B2;&#x7A81;&#x6587;&#x4EF6;](../../.gitbook/assets/tui-song-2.png)
 

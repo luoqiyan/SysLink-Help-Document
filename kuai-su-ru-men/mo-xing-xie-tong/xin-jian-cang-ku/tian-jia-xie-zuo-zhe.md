@@ -2,27 +2,27 @@
 
 新建仓库完成后，在仓库详细信息页面的右侧点击“协作者”按钮，弹出“管理协作者”对话框，当前不存在协作者。
 
-![&#x201D;&#x7BA1;&#x7406;&#x534F;&#x4F5C;&#x8005;&#x201C;&#x5BF9;&#x8BDD;&#x6846;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-1.png)
+![&#x201D;&#x7BA1;&#x7406;&#x534F;&#x4F5C;&#x8005;&#x201C;&#x5BF9;&#x8BDD;&#x6846;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-1.png)
 
 在用户搜索框中输入待查找用户的用户名，这里为用户“B”，下方显示出包含“B”的所有用户名。
 
-![&#x641C;&#x7D22;&#x7528;&#x6237;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-2.png)
+![&#x641C;&#x7D22;&#x7528;&#x6237;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-2.png)
 
 选择用户“B”，点击“添加协作者”按钮，则成功将用户“B”添加为当前仓库的协作者，且默认权限为“可写权限”。
 
-![&#x6DFB;&#x52A0;&#x534F;&#x4F5C;&#x8005;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-3.png)
+![&#x6DFB;&#x52A0;&#x534F;&#x4F5C;&#x8005;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-3.png)
 
 用户“B”登录SysLinl系统后，在“我的仓库”页面的“我的协作”项下可以看到其作为协作者参与的仓库。
 
-![&#x6211;&#x7684;&#x534F;&#x4F5C;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-6.png)
+![&#x6211;&#x7684;&#x534F;&#x4F5C;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-6.png)
 
 若要更改协作者的权限，点击权限下拉框，在显示的权限菜单中选择其他项即可。
 
-![&#x66F4;&#x6539;&#x534F;&#x4F5C;&#x8005;&#x6743;&#x9650;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-4.png)
+![&#x66F4;&#x6539;&#x534F;&#x4F5C;&#x8005;&#x6743;&#x9650;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-4.png)
 
 若要删除协作者，则点击“删除”按钮，在弹出的是否删除协作者的提示框中点击“确定”按钮，将当前选中的协作者“B”删除。
 
-![&#x5220;&#x9664;&#x534F;&#x4F5C;&#x8005;](../../.gitbook/assets/tian-jia-xie-zuo-zhe-5.png)
+![&#x5220;&#x9664;&#x534F;&#x4F5C;&#x8005;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-5.png)
 
 
 
