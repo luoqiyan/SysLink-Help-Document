@@ -8,7 +8,7 @@
 
 ![&#x540C;&#x610F;&#x7528;&#x6237;&#x8BB8;&#x53EF;&#x534F;&#x8BAE;](../.gitbook/assets/an-zhuang-1.png)
 
-\(2\). 选择安装路径。系统缺省设为“C:\Program Files \(x86\)\MWorks.Sysplorer\(Dev\) 2018\”，如果需安装在其他目录，点击“文件夹” 按钮选择文件夹。
+\(2\). 选择安装路径。系统缺省设为“C:\Program Files \(x86\)\MWorks.Sysplorer 2018”，如果需安装在其他目录，点击“文件夹”按钮选择文件夹。
 
 ![&#x9009;&#x62E9;&#x5B89;&#x88C5;&#x8DEF;&#x5F84;](../.gitbook/assets/xuan-ze-an-zhuang-lu-jing.png)
 
