@@ -2,7 +2,7 @@
 
 * [SysLink Help Document](README.md)
 * [SysLink概述](syslink-gai-shu.md)
-* [安装与卸载0](untitled/README.md)
+* [安装与卸载](untitled/README.md)
   * [安装与卸载SysLink服务器](untitled/an-zhuang-syslink.md)
   * [安装与卸载SysLink客户端](untitled/xie-zai-syslink.md)
   * [运行配置](untitled/yun-hang-pei-zhi.md)

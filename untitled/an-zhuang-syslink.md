@@ -8,7 +8,7 @@
 
 ![&#x9009;&#x62E9;&#x5B89;&#x88C5;&#x8BED;&#x8A00;](../.gitbook/assets/xuan-ze-yu-yan.png)
 
-\(2\). 点击“OK”按钮，进入SysLink服务器安装向导。
+\(2\). 默认为“简体中文”，点击“OK”按钮，进入SysLink服务器安装向导。
 
 ![&#x5B89;&#x88C5;&#x5411;&#x5BFC;](../.gitbook/assets/an-zhuang-xiang-dao%20%281%29.png)
 
