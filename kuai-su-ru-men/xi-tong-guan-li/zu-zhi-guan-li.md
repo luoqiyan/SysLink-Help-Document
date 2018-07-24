@@ -8,47 +8,47 @@ description: 部门管理包括新建部门、编辑部门和删除部门。
 
 系统管理员登录SysLink web端后，点击右上角图标，弹出下拉菜单。
 
-![&#x70B9;&#x51FB;&#x53F3;&#x4E0A;&#x89D2;&#x56FE;&#x6807;](../.gitbook/assets/bu-men-guan-li-1.png)
+![&#x70B9;&#x51FB;&#x53F3;&#x4E0A;&#x89D2;&#x56FE;&#x6807;](../../.gitbook/assets/bu-men-guan-li-1.png)
 
 点击“系统管理”菜单，进入到“系统管理”页面。当前为“组织管理”页面，可以在右侧查看组织列表信息。
 
-![&#x7EC4;&#x7EC7;&#x5217;&#x8868;](../.gitbook/assets/bu-men-guan-li-2.png)
+![&#x7EC4;&#x7EC7;&#x5217;&#x8868;](../../.gitbook/assets/bu-men-guan-li-2.png)
 
 点击“添加”按钮，弹出“新建部门”对话框，如下图所示。
 
-![&#x201C;&#x65B0;&#x5EFA;&#x90E8;&#x95E8;&#x201D;&#x5BF9;&#x8BDD;&#x6846;](../.gitbook/assets/bu-men-guan-li-3.png)
+![&#x201C;&#x65B0;&#x5EFA;&#x90E8;&#x95E8;&#x201D;&#x5BF9;&#x8BDD;&#x6846;](../../.gitbook/assets/bu-men-guan-li-3.png)
 
 在“新建部门”对话框中设置部门的名称、父级部门和描述信息，这里设置名称为“测试组”，“父级部门”为“同元软控”，“描述信息”为“新增测试组”。
 
-![&#x65B0;&#x5EFA;&#x90E8;&#x95E8;](../.gitbook/assets/bu-men-guan-li-4.png)
+![&#x65B0;&#x5EFA;&#x90E8;&#x95E8;](../../.gitbook/assets/bu-men-guan-li-4.png)
 
 点击“提交”按钮，在部门列表中可查看到新创建的部门“测试组”。
 
-![&#x65B0;&#x5EFA;&#x90E8;&#x95E8;&#x6548;&#x679C;](../.gitbook/assets/bu-men-guan-li-5.png)
+![&#x65B0;&#x5EFA;&#x90E8;&#x95E8;&#x6548;&#x679C;](../../.gitbook/assets/bu-men-guan-li-5.png)
 
 ## 编辑部门
 
 在部门列表中选中一个部门如新建的“测试组”，接着点击“编辑”按钮，弹出“编辑部门”对话框。
 
-![&#x201C;&#x7F16;&#x8F91;&#x90E8;&#x95E8;&#x201D;&#x5BF9;&#x8BDD;&#x6846;](../.gitbook/assets/bian-ji-bu-men-1.png)
+![&#x201C;&#x7F16;&#x8F91;&#x90E8;&#x95E8;&#x201D;&#x5BF9;&#x8BDD;&#x6846;](../../.gitbook/assets/bian-ji-bu-men-1.png)
 
 在“编辑部门”对话框中编辑部门名称、父级部门和描述信息，这里修改“父级部门”为“工程部”，“描述”为“修改父级部门”。
 
-![&#x7F16;&#x8F91;&#x90E8;&#x95E8;](../.gitbook/assets/bian-ji-bu-men-2.png)
+![&#x7F16;&#x8F91;&#x90E8;&#x95E8;](../../.gitbook/assets/bian-ji-bu-men-2.png)
 
 点击“提交”按钮，在部门列表中可查看到编辑后的部门“测试组”。
 
-![&#x7F16;&#x8F91;&#x90E8;&#x95E8;&#x540E;&#x7684;&#x6548;&#x679C;](../.gitbook/assets/bian-ji-bu-men-3%20%281%29.png)
+![&#x7F16;&#x8F91;&#x90E8;&#x95E8;&#x540E;&#x7684;&#x6548;&#x679C;](../../.gitbook/assets/bian-ji-bu-men-3%20%281%29.png)
 
 ## 删除部门
 
 在部门列表中，选中一个部门如编辑后的“测试组”，点击“删除”按钮，弹出删除部门的提示框。
 
-![&#x5220;&#x9664;&#x90E8;&#x95E8;&#x63D0;&#x793A;&#x6846;](../.gitbook/assets/shan-chu-bu-men-1%20%281%29.png)
+![&#x5220;&#x9664;&#x90E8;&#x95E8;&#x63D0;&#x793A;&#x6846;](../../.gitbook/assets/shan-chu-bu-men-1%20%281%29.png)
 
 点击“确定“按钮，选中的部门从部门列表中删除。若部门中存在人员，则随着部门也一并删除。
 
-![&#x5220;&#x9664;&#x90E8;&#x95E8;&#x540E;&#x7684;&#x6548;&#x679C;](../.gitbook/assets/shan-chu-bu-men-2.png)
+![&#x5220;&#x9664;&#x90E8;&#x95E8;&#x540E;&#x7684;&#x6548;&#x679C;](../../.gitbook/assets/shan-chu-bu-men-2.png)
 
 若删除的部门为父级部门，则其隶属部门及隶属部门人员也将删除。其中，根部门为系统默认部门，不允许被删除。
 

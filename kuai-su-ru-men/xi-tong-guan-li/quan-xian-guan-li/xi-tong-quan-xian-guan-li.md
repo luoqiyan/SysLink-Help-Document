@@ -2,15 +2,15 @@
 
 在展开的“系统管理”项中展开“权限管理”项。
 
-![&#x5C55;&#x5F00;&#x201C;&#x6743;&#x9650;&#x7BA1;&#x7406;&#x201D;&#x9879;](../../.gitbook/assets/quan-xian-guan-li-1%20%281%29.png)
+![&#x5C55;&#x5F00;&#x201C;&#x6743;&#x9650;&#x7BA1;&#x7406;&#x201D;&#x9879;](../../../.gitbook/assets/quan-xian-guan-li-1%20%281%29.png)
 
 接着点击“系统权限”项，进入“系统权限管理”页面，可以在右侧可以查看系统的权限组列表信息。
 
-![&#x6743;&#x9650;&#x7EC4;&#x5217;&#x8868;](../../.gitbook/assets/quan-xian-guan-li-2%20%281%29.png)
+![&#x6743;&#x9650;&#x7EC4;&#x5217;&#x8868;](../../../.gitbook/assets/quan-xian-guan-li-2%20%281%29.png)
 
 在权限组列表中展开一权限组如“组织管理”，可以看到该权限组下的所有权限项列表。
 
-![&#x6743;&#x9650;&#x9879;&#x4FE1;&#x606F;](../../.gitbook/assets/quan-xian-guan-li-3.png)
+![&#x6743;&#x9650;&#x9879;&#x4FE1;&#x606F;](../../../.gitbook/assets/quan-xian-guan-li-3.png)
 
 
 
