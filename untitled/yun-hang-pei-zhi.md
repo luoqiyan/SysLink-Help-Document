@@ -36,7 +36,7 @@ const HostPath = \"192.168.52.128\"\r\n
 
 双击桌面上的快捷方式MWorks，即启动SysLink客户端。
 
-![&#x542F;&#x52A8;&#x5BA2;&#x6237;&#x7AEF;](../.gitbook/assets/qi-dong-mworks.png)
+![&#x542F;&#x52A8;&#x5BA2;&#x6237;&#x7AEF;](../.gitbook/assets/qi-dong-ke-hu-duan.png)
 
 
 
