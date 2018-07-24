@@ -2,7 +2,7 @@
 
 ## 安装SysLink客户端
 
-双击运行SysLink客户端（MWorks.Sysplorer，下面简称为MWorks）安装包“MWorks.Sysplorer 2018\(x86\)\_4.1.2.1961\_Setup\(Dev\).exe”，启动MWorks安装过程：
+双击运行SysLink客户端（MWorks.Sysplorer，下面简称为MWorks）安装包“MWorks.Sysplorer 2018\(x86\)\_1.0.0.1\_Setup.exe”，启动MWorks安装过程：
 
 \(1\). 同意用户许可协议。
 
