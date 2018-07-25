@@ -14,9 +14,9 @@
 
 用户B登录SysLink web端后，在我的工作台右下角的“仓库→协同” 项或者“我的仓库”页面的“我的协作”项下可以看到其作为协作者参与的仓库“Library ”。
 
-![&#x5DE5;&#x4F5C;&#x53F0;&#x2192;&#x4ED3;&#x5E93;&#x2192;&#x534F;&#x540C;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-1%20%281%29.png)
+![&#x5DE5;&#x4F5C;&#x53F0;&#x2192;&#x4ED3;&#x5E93;&#x2192;&#x534F;&#x540C;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-1%20%282%29.png)
 
-![&#x6211;&#x7684;&#x4ED3;&#x5E93;&#x2192;&#x6211;&#x7684;&#x534F;&#x4F5C;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-2%20%281%29.png)
+![&#x6211;&#x7684;&#x4ED3;&#x5E93;&#x2192;&#x6211;&#x7684;&#x534F;&#x4F5C;](../../../.gitbook/assets/tian-jia-xie-zuo-zhe-2%20%282%29.png)
 
 若要更改协作者的权限，则点击“权限等级”项的下拉按钮，在弹出的权限等级下拉框中选择其他项即可。
 
