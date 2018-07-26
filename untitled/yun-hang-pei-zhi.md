@@ -38,5 +38,13 @@ const HostPath = \"192.168.52.128\"\r\n
 
 ![&#x542F;&#x52A8;&#x5BA2;&#x6237;&#x7AEF;](../.gitbook/assets/qi-dong-ke-hu-duan.png)
 
+接着对服务器地址和端口号进行配置，点击菜单“工具→选项”，弹出“选项”对话框，切换至“Syslink→登录”项。
+
+![Syslink&#x2192;&#x767B;&#x5F55;](../.gitbook/assets/pei-zhi-fu-wu-qi-di-zhi-he-duan-kou.png)
+
+输入正确的用户名、密码、服务器地址和端口号，接着点击“验证”按钮，提示登录成功。
+
+![&#x63D0;&#x793A;&#x767B;&#x5F55;&#x6210;&#x529F;](../.gitbook/assets/ti-shi-deng-lu-cheng-gong.png)
+
 
 
