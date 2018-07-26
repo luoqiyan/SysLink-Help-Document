@@ -8,7 +8,7 @@ description: 部门管理包括新建部门、编辑部门和删除部门。
 
 系统管理员登录SysLink web端后，点击右上角图标，弹出下拉菜单。
 
-![&#x70B9;&#x51FB;&#x53F3;&#x4E0A;&#x89D2;&#x56FE;&#x6807;](../../.gitbook/assets/bu-men-guan-li-1.png)
+![&#x70B9;&#x51FB;&#x53F3;&#x4E0A;&#x89D2;&#x56FE;&#x6807;](../../.gitbook/assets/xi-tong-guan-li-1.png)
 
 点击“系统管理”菜单，进入到“系统管理”页面。当前为“组织管理”页面，可以在右侧查看组织列表信息。
 
