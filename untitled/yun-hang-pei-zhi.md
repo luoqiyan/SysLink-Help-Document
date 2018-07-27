@@ -2,7 +2,7 @@
 
 ## SysLink服务器运行配置
 
-\(1\). SysLink服务器安装完成后，打开C:\Windows\SysWOW64\CAEModelDBS\tomcat\webapps\ROOT\WEB-INF\classes\[默认安装路径\]下的application.properties，修改其中的gogsHostPath（位于62行）和HostPath（位于64行）为当前服务器IP。
+\(1\). SysLink服务器安装完成后，打开“C:\Windows\SysWOW64\CAEModelDBS\tomcat\webapps\ROOT\WEB-INF\classes”\[默认安装路径\]下的“application.properties”，修改其中的“gogsHostPath”（位于62行）和“HostPath”（位于64行）为当前服务器IP。
 
 ```text
 gogsHostPath = 192.168.52.128:3001
@@ -10,13 +10,13 @@ gogsHostPath = 192.168.52.128:3001
 HostPath = 192.168.52.128:8080
 ```
 
-\(2\). 修改C:\Windows\SysWOW64\CAEModelDBS\tomcat\webapps\ROOT\WEB-INF\classes\static\assets\js\[默认安装路径\]下app.442745aca11fdf64a966.js中的HostPath（位于112111行）为当前服务器IP。
+\(2\). 修改“C:\Windows\SysWOW64\CAEModelDBS\tomcat\webapps\ROOT\WEB-INF\classes\static\assets\js”\[默认安装路径\]下“app.442745aca11fdf64a966.js”中的“HostPath”（位于112111行）为当前服务器IP。
 
 ```text
 var HostPath = "192.168.52.128";
 ```
 
-\(3\). 修改C:\Windows\SysWOW64\CAEModelDBS\tomcat\webapps\ROOT\WEB-INF\classes\static\assets\js\[默认安装路径\]下app.442745aca11fdf64a966.js.map中的HostPath为当前服务器IP。
+\(3\). 修改“C:\Windows\SysWOW64\CAEModelDBS\tomcat\webapps\ROOT\WEB-INF\classes\static\assets\js”\[默认安装路径\]下“app.442745aca11fdf64a966.js.map”中的“HostPath”为当前服务器IP。
 
 ```text
 const HostPath = \"192.168.52.128\"\r\n
