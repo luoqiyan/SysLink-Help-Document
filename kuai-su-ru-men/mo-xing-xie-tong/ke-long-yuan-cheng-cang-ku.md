@@ -10,7 +10,7 @@ description: 克隆远程库时用户必须为远程库的创建者或者协作�
 
 ![&#x201C;&#x9009;&#x9879;&#x201D;&#x5BF9;&#x8BDD;&#x6846;](../../.gitbook/assets/ke-long-1.png)
 
-切换至“Ssylink→Git”，在右侧“模式切换”项中点击“协同模式”即可。
+切换至“Syslink→Git”，在右侧“模式切换”项中点击“协同模式”即可。
 
 ![&#x6A21;&#x5F0F;&#x5207;&#x6362;](../../.gitbook/assets/ke-long-2.png)
 
