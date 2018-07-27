@@ -40,13 +40,13 @@
 
 ![&#x201C;&#x4EFF;&#x771F;&#x7ED3;&#x679C;&#x201D;&#x9875;&#x9762;](../.gitbook/assets/zai-xian-fang-zhen-9.png)
 
-在右侧“变量”TAB页中将模型展开至变量节点，选中一变量如“Control-gain-y”，在左侧可以查看选中变量的曲线结果。
+在右侧“变量”TAB页中将模型展开至变量节点，选中一变量如“Control→gain→y”，在左侧可以查看选中变量的曲线结果。
 
-![&#x67E5;&#x770B;&#x9009;&#x4E2D;&#x53D8;&#x91CF;&#x7684;&#x66F2;&#x7EBF;&#x7ED3;&#x679C;](../.gitbook/assets/zai-xian-fang-zhen-10.png)
+![](../.gitbook/assets/qu-xian-1%20%284%29.png)
 
 系统支持多个变量的曲线结果查看，如下图所示。
 
-![&#x591A;&#x4E2A;&#x53D8;&#x91CF;&#x7684;&#x7ED3;&#x679C;&#x66F2;&#x7EBF;](../.gitbook/assets/zai-xian-fang-zhen-11.png)
+![&#x591A;&#x4E2A;&#x53D8;&#x91CF;&#x7684;&#x7ED3;&#x679C;&#x66F2;&#x7EBF;](../.gitbook/assets/qu-xian-2.png)
 
 点击任务“Library.Control”的“下载”按钮，将当前模型仿真结果下载至本地；点击“输出”按钮，查看当前仿真任务的控制台输出信息。
 
